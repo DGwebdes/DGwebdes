@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @DGwebdes
-- 👀 I’m interested in technology, philosophy, visual arts and innovation. I'm curious about the human potential in both the physical and digital realms.
-- 🌱 I’m currently learning C and Prompt Engineering. As always, continously learning Javascript, Python and other languages and tools related to software engineering and web development.
-- 💞️ I’m looking to collaborate on projects that I'm passionate about and that you are passionate about. I want to create beautiful experiences for users and to explore the capabilities of AI. 
-- 📫 How to reach me alan.bilik8@gmail.com
+# 👋 Hello, World! I'm DGwebdes
+
+### About Me:
+- 🧠 A curious mind exploring the intersection of **technology, philosophy, visual arts, and innovation**.  
+- 🔍 Fascinated by human potential in both **physical and digital realms**.  
+- 🚀 Continuously learning, currently diving deep into **Golang** and expanding my knowledge of **software engineering** and **web development** tools.  
+
+### What I’m Up To:
+- 🤝 Eager to collaborate on projects that ignite passion—yours and mine!  
+- 🎨 I strive to create **beautiful and intuitive user experiences**, with a growing interest in the **boundless capabilities of AI**.  
+
+### Skills & Tools:
+- 🌟 Frontend: **JavaScript**, **React**, **HTML/CSS**  
+- 🌍 Backend: **Node.js**, **Express**, **MongoDB**, and **SQL**  
+- 🛠️ Other: **Git**, **GitHub**, **Python**, **Golang**  
+
+### Let's Connect:
+📫 Reach out to me at **alan.bilik8@gmail.com**.  
+I'm always open to exciting discussions, collaborations, and sharing knowledge!  
 
 <!---
 DGwebdes/DGwebdes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
