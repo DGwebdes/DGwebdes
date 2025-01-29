@@ -11,7 +11,7 @@
 
 ### Skills & Tools:
 - 🌟 Frontend: **JavaScript**, **React**, **HTML/CSS**  
-- 🌍 Backend: **Node.js**, **Express**, **MongoDB**, and **SQL**  
+- 🌍 Backend: **Node.js**, **Express**, **MongoDB**, **PHP** and **SQL**  
 - 🛠️ Other: **Git**, **GitHub**, **Python**, **Golang**  
 
 ### Let's Connect:
