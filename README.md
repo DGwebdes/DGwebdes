@@ -3,7 +3,7 @@
 ### About Me:
 - 🧠 A curious mind exploring the intersection of **technology, philosophy, visual arts, and innovation**.  
 - 🔍 Fascinated by human potential in both **physical and digital realms**.  
-- 🚀 Continuously learning, currently diving deep into **Golang** and expanding my knowledge of **software engineering** and **web development** tools.  
+- 🚀 Continuously learning, currently diving deep into **PHP** and expanding my knowledge of **software engineering** and **web development** tools.  
 
 ### What I’m Up To:
 - 🤝 Eager to collaborate on projects that ignite passion—yours and mine!  
@@ -12,7 +12,7 @@
 ### Skills & Tools:
 - 🌟 Frontend: **JavaScript**, **React**, **HTML/CSS**  
 - 🌍 Backend: **Node.js**, **Express**, **MongoDB**, **PHP** and **SQL**  
-- 🛠️ Other: **Git**, **GitHub**, **Python**, **Golang**  
+- 🛠️ Other: **Git**, **GitHub**, **Python**, **C**
 
 ### Let's Connect:
 📫 Reach out to me at **alan.bilik8@gmail.com**.  
