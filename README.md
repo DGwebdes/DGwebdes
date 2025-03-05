@@ -15,7 +15,7 @@
 - 🛠️ Other: **Git**, **GitHub**, **Python**, **C**
 
 ### Let's Connect:
-📫 Reach out to me at **alan.bilik8@gmail.com**.  
+📫 Reach out to me at **https://dielanwebdev.pt/**.  
 I'm always open to exciting discussions, collaborations, and sharing knowledge!  
 
 <!---
