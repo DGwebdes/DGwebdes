@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm DGwebdes!</h1>
+<h1 align="center">👋 Hey there, I'm Dielan Garve!</h1>
 
 <p align="center">
   🧠 A curious mind diving into tech & design.<br>
@@ -43,6 +43,26 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DGwebdes&show_icons=true&theme=radical" alt="DGwebdes's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGwebdes&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DGwebdes&theme=radical&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DGwebdes&theme=radical" />
+</p>
+
+---
+
 ## 🌍 Let's Connect
 
 🌐 Website: [dielanwebdev.pt](https://dielanwebdev.pt/)  
@@ -51,9 +71,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
 </p>
-
-
-<!---
-DGwebdes/DGwebdes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
