@@ -40,6 +40,7 @@
 ### 🧩 Other Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 
 ---
 
