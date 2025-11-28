@@ -21,24 +21,24 @@
 ### 🌐 Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 
 ### 🧰 Backend
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat&logo=nest](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
-)
+![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat&logo=nest](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white )
 
 ### 🗃️ Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat&logo=supabase)
 
 ### ☁️ Deployment
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify)
 ![Render](https://img.shields.io/badge/-Render-black?style=flat&logo=render)
-[![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white)](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-black?style=flat&logo=cpanel&logoColor=white)
 
 ### 🧩 Other Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
