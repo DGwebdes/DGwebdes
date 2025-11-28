@@ -1,17 +1,18 @@
 <h1 align="center">👋 Hey there, I'm Dielan Garve!</h1>
 
 <p align="center">
-  🧠 A curious mind diving into tech & design.<br>
-  🎨 Exploring the creative edges of AI.<br>
+  I've always been fascinated by technology, but not for itself, more fore the brilliance behind it.<br>
+  And I now know, what it takes. A semicolon; <br>
   🤝 Always up for cool collabs!
 </p>
 
 ---
 
-## 🚀 What I'm Up To
-- 🤝 Looking to collaborate on **creative web projects**
-- 🧪 Experimenting with **AI & frontend magic**
-- 📚 Constantly learning and building in public
+## What I'm Up To
+- Looking to collaborate on **any projects**
+- I've spent some time learning nextjs, but now have moved to Nestjs if I need Node, or PHP. Depends on the project.
+- Constantly learning. I guess I enjoy the journey.
+- Ah, and also AI stuff, of course. 
 
 ---
 
@@ -25,8 +26,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
 
 ### 🧰 Backend
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
+![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat&logo=nest](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
+)
 
 ### 🗃️ Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
@@ -34,13 +37,12 @@
 
 ### ☁️ Deployment
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
 ![Render](https://img.shields.io/badge/-Render-black?style=flat&logo=render)
+[![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white)](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
 ### 🧩 Other Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 
 ---
 
