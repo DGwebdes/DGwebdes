@@ -28,11 +28,11 @@
 ### 🧰 Backend
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat&logo=nest](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white )
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### 🗃️ Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat&logo=supabase)
 
 ### ☁️ Deployment
