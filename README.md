@@ -28,7 +28,7 @@
 ### 🧰 Backend
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### 🗃️ Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
@@ -48,13 +48,13 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DGwebdes&show_icons=true&theme=radical" alt="DGwebdes's GitHub stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGwebdes&layout=compact&theme=radical" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DGwebdes&theme=radical&hide_border=false" />
