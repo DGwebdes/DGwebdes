@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hey there, I'm Dielan Garve!</h1>
+<h1 align="center">I'm Dielan Garve! BEHOLD!</h1>
 
 <p align="center">
-  I've always been fascinated by technology, but not for itself, more fore the brilliance behind it.<br>
-  And I now know, what it takes. A semicolon; <br>
+  I've always been fascinated by technology, but not for itself, more for the brilliance behind it.<br>
+  And I now know what it takes. A semicolon; <br>
   🤝 Always up for cool collabs!
 </p>
 
@@ -50,11 +50,11 @@
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DGwebdes&show_icons=true&theme=radical" alt="DGwebdes's GitHub stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGwebdes&layout=compact&theme=radical" />
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DGwebdes&theme=radical&hide_border=false" />
