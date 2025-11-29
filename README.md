@@ -19,7 +19,7 @@
 ## 🛠️ Skills & Tools
 
 ### Frontend
-![Threejs](https://img.shields.io/badge/-Threejs-black?style=flat&logo=threejs)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 
