@@ -18,31 +18,24 @@
 
 ## 🛠️ Skills & Tools
 
-### 🌐 Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+### Frontend
+![Threejs](https://img.shields.io/badge/-Threejs-black?style=flat&logo=threejs)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 
-### 🧰 Backend
+### Backend
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/nestjs-black?style=flat&logo=nestjs&logoColor=white)
 
-### 🗃️ Database
+### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat&logo=supabase)
 
-### ☁️ Deployment
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify)
-![Render](https://img.shields.io/badge/-Render-black?style=flat&logo=render)
-![cPanel](https://img.shields.io/badge/cPanel-black?style=flat&logo=cpanel&logoColor=white)
-
-### 🧩 Other Tools
+### Other 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![cPanel](https://img.shields.io/badge/cPanel-black?style=flat&logo=cpanel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify)
 
 ---
 
