@@ -30,7 +30,7 @@
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![Postgres](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=flat&logo=supabase&logoColor=white)
 
 ### Other 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
