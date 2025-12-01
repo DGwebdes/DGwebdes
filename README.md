@@ -26,7 +26,7 @@
 ### Backend
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat&logo=expressjs&logoColor=white)
+![Expressjs](https://img.shields.io/badge/-Express.js-black?style=flat&logo=expressjs&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
