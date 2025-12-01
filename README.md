@@ -26,18 +26,18 @@
 ### Backend
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![Expressjs](https://img.shields.io/badge/-Express-black?style=flat&logo=expressjs&logoColor=white)
+![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat&logo=expressjs&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![Supabase](https://img.shields.io/badge/Supabase-black?style=flat&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=flat&logo=supabase)
 
 ### Other 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![cPanel](https://img.shields.io/badge/cPanel-black?style=flat&logo=cpanel&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-black?style=flat&logo=cpanel)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify)
-![NestJs](https://img.shields.io/badge/-Nestjs-black?style=flat&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=white)
+![NestJs](https://img.shields.io/badge/-Nestjs-black?style=flat&logo=nestjs)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 
 ---
 
