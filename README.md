@@ -21,10 +21,8 @@
 ### Frontend
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 
 ### Backend
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
 
@@ -34,6 +32,7 @@
 
 ### Other 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
 ![cPanel](https://img.shields.io/badge/cPanel-black?style=flat&logo=cpanel)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat&logo=netlify)
 ![NestJs](https://img.shields.io/badge/-Nestjs-black?style=flat&logo=nestjs)
